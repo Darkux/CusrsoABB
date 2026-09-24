@@ -1,0 +1,560 @@
+<dynamic-text>
+	<header>
+		<default-language>english</default-language>
+		<default-font>
+			<language>english</language>
+			<font-name>Arial</font-name>
+		</default-font>
+		<default-font>
+			<language>german</language>
+			<font-name>Arial</font-name>
+		</default-font>
+		<default-font>
+			<language>swedish</language>
+			<font-name>Arial</font-name>
+		</default-font>
+	</header>
+	<text-list>
+	<text prefix="nav_button_xml" id="Main Screen">
+		<english>Main Screen</english>
+		<german>Hauptseite</german>
+		<swedish></swedish>
+	</text>
+	<text prefix="nav_sitepath_xml" id="VIS_MainScreen">
+		<english>Main Screen</english>
+		<german>Hauptseite</german>
+		<swedish></swedish>
+	</text>	
+	
+	<text prefix="nav_button_xml" id="Control Panel">
+		<english>Control Panel</english>
+		<german>Steuerstand</german>
+		<swedish></swedish>
+	</text>
+	<text prefix="nav_sitepath_xml" id="VIS_Control_Panel">
+		<english>Control Panel</english>
+		<german>Steuerstand</german>
+		<swedish></swedish>
+	</text>
+	
+	<text prefix="nav_button_xml" id="Spreader">
+		<english>Spreader</english>
+		<german>Greifer</german>
+		<swedish></swedish>
+	</text>
+	<text prefix="nav_sitepath_xml" id="VIS_Spreader">
+		<english>Spreader</english>
+		<german>Greifer</german>
+		<swedish></swedish>
+	</text>	
+	
+	<text prefix="nav_button_xml" id="Truck Lane Positioning">
+		<english>Lane Pos.</english>
+		<german>Spur-Pos.</german>
+		<swedish></swedish>
+	</text>
+	<text prefix="nav_sitepath_xml" id="VIS_TLP">
+		<english>Truck Lane Positioning</english>
+		<german>Spur-Positionierung</german>
+		<swedish></swedish>
+	</text>	
+	
+	
+	<text prefix="nav_button_xml" id="Drivers Help">
+		<english>Drivers Help</english>
+		<german>Fahrerhilfe</german>
+		<swedish></swedish>
+	</text>
+	<text prefix="nav_sitepath_xml" id="VIS_DriversHelp">
+		<english>Drivers Help</english>
+		<german>Fahrerhilfe</german>
+		<swedish></swedish>
+	</text>
+	
+	<text prefix="nav_button_xml" id="Errors">
+		<english>Errors</english>
+		<german>Alarme</german>
+		<swedish></swedish>
+	</text>
+		<text prefix="nav_button_xml" id="Errors 1">
+			<english>Errors 1</english>
+			<german>Alarme</german>
+			<swedish></swedish>
+		</text>
+		<text prefix="nav_sitepath_xml" id="VIS_ERRORS_1">
+			<english>Errors > Errors 1</english>
+			<german>Alarme > Alarme 1</german>
+			<swedish></swedish>
+		</text>	
+
+		<text prefix="nav_button_xml" id="Errors 2">
+			<english>Errors 2</english>
+			<german>Alarme 2</german>
+			<swedish></swedish>
+		</text>
+		<text prefix="nav_sitepath_xml" id="VIS_ERRORS_2">
+			<english>Errors > Errors 2</english>
+			<german>Alarme > Alarme 2</german>
+			<swedish></swedish>
+		</text>	
+
+		<text prefix="nav_button_xml" id="Errors 3">
+			<english>Errors 3</english>
+			<german>Alarme 3</german>
+			<swedish></swedish>
+		</text>
+		<text prefix="nav_sitepath_xml" id="VIS_ERRORS_3">
+			<english>Errors > Errors 3</english>
+			<german>Alarme > Alarme 3</german>
+			<swedish></swedish>
+		</text>	
+		
+	<text prefix="nav_button_xml" id="Maintenance">
+		<english>Maintenance</english>
+		<german>instandhaltung</german>
+		<swedish></swedish>
+	</text>
+		<text prefix="nav_button_xml" id="Overview">
+			<english>Overview</english>
+			<german>Uebersicht</german>
+			<swedish></swedish>
+		</text>
+		<text prefix="nav_sitepath_xml" id="VIS_Maintenance">
+			<english>Maintenance > Overview</english>
+			<german>Instandhaltung > Uebersicht</german>
+			<swedish></swedish>
+		</text>	
+		
+		<text prefix="nav_button_xml" id="Drives">
+			<english>Drives</english>
+			<german>Antriebe</german>
+			<swedish></swedish>
+		</text>
+			<text prefix="nav_button_xml" id="AFE Meters">
+				<english>AFE Meters</english>
+				<german>AFE Meter</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC1_Meters">
+				<english>Maintenance > Drives > AFE Meters</english>
+				<german>Instandhaltung > Antriebe > AFE Meter</german>
+				<swedish></swedish>
+			</text>	
+			
+			<text prefix="nav_button_xml" id="AFE Graphs">
+				<english>AFE Graphs</english>
+				<german>AFE Graphen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC1_Graphs">
+				<english>Maintenance > Drives > AFE Graphs</english>
+				<german>Instandhaltung > Antriebe > AFE Graphen</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Hoist Meters">
+				<english>Hoist Meters</english>
+				<german>Hubwerk Meter</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC2_Meters">
+				<english>Maintenance > Drives > Hoist Meters</english>
+				<german>Instandhaltung > Antriebe > Hubwerk Meter</german>
+				<swedish></swedish>
+			</text>	
+			
+			<text prefix="nav_button_xml" id="Hoist Graphs">
+				<english>Hoist Graphs</english>
+				<german>Hubwerk Graphen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC2_Graphs">
+				<english>Maintenance > Drives > Hoist Graphs</english>
+				<german>Instandhaltung > Antriebe > Hubwerk Graphen</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Travel Meters">
+				<english>Travel Meters</english>
+				<german>Fahrwerk Meter</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC3_4_Meters">
+				<english>Maintenance > Drives > Travel Meters</english>
+				<german>Instandhaltung > Antriebe > Travel Meters</german>
+				<swedish></swedish>
+			</text>	
+			
+			<text prefix="nav_button_xml" id="Travel Graphs">
+				<english>Travel Graphs</english>
+				<german>Fahrwerk Graphen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC3_4_Graphs">
+				<english>Maintenance > Drives > Travel Graphs</english>
+				<german>Instandhaltung > Antriebe > Fahrwerk Graphen</german>
+				<swedish></swedish>
+			</text>	
+			
+			<text prefix="nav_button_xml" id="Trolley Meters">
+				<english>Trolley Meters</english>
+				<german>Laufkatze Meter</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC5_Meters">
+				<english>Maintenance > Drives > Trolley Meters</english>
+				<german>Instandhaltung > Antriebe > Laufkatze Meter</german>
+				<swedish></swedish>
+			</text>	
+			
+			<text prefix="nav_button_xml" id="Trolley Graphs">
+				<english>Trolley Graphs</english>
+				<german>Laufkatze Graphen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC5_Graphs">
+				<english>Maintenance > Drives > Trolley Graphs</english>
+				<german>Instandhaltung > Antriebe > Laufkatze Graphen</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="CRD Meters">
+				<english>CRD Meters</english>
+				<german>CRD Meter</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC6_Meters">
+				<english>Maintenance > Drives > CRD Meters</english>
+				<german>Instandhaltung > Antriebe > CRD Meter</german>
+				<swedish></swedish>
+			</text>	
+			
+			<text prefix="nav_button_xml" id="CRD Graphs">
+				<english>CRD Graphs</english>
+				<german>CRD Graphen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Drive_FC6_Graphs">
+				<english>Maintenance > Drives > CRD Graphs</english>
+				<german>Instandhaltung > Antriebe > CRD Graphen</german>
+				<swedish></swedish>
+			</text>	
+	
+		<text prefix="nav_button_xml" id="Bypass">
+			<english>Bypass</english>
+			<german>Umgehenungen</german>
+			<swedish></swedish>
+		</text>
+			<text prefix="nav_button_xml" id="Page 1">
+				<english>Page 1</english>
+				<german>Seite 1</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Bypass1">
+				<english>Maintenance > Bypass > Page 1</english>
+				<german>Instandhaltung > Umgehenungen > Seite 1</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Page 2">
+				<english>Page 2</english>
+				<german>Seite 2</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Bypass2">
+				<english>Maintenance > Bypass > Page 2</english>
+				<german>Instandhaltung > Umgehenungen > Seite 2</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Safety Bypass">
+				<english>Safety Bypasses</english>
+				<german>Sicherheit</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Bypass_SAFETY">
+				<english>Maintenance > Bypass > Safety Bypass</english>
+				<german>Instandhaltung > Umgehenungen > Sicherheit</german>
+				<swedish></swedish>
+			</text>
+			
+		<text prefix="nav_button_xml" id="Detail Error and DH">
+			<english>Error and DH</english>
+			<german>Alarme und DH</german>
+			<swedish></swedish>
+		</text>
+			<text prefix="nav_button_xml" id="CPLC SPLC">
+				<english>CPLC SPLC</english>
+				<german>CPLC SPLC</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Errors_CPLC_SPLC">
+				<english>Maintenance > Error and DH > CPLC SPLC</english>
+				<german>Instandhaltung > Alarme > CPLC SPLC</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="HW QF">
+				<english>HW QF</english>
+				<german>HW QF</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Errors_HW_QF">
+				<english>Maintenance > Error and DH > HW QF</english>
+				<german>Instandhaltung > Alarme > HW QF</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="E-Stop">
+				<english>E-Stop</english>
+				<german>Not-Aus</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Errors_EStop">
+				<english>Maintenance > Error and DH > E-Stop</english>
+				<german>Instandhaltung > Alarme > Not-Aus</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="FC1 FC2">
+				<english>FC1 and FC2</english>
+				<german>FC1 und FC2</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Errors_FC1_2">
+				<english>Maintenance > Error and DH > FC1 and FC2</english>
+				<german>Instandhaltung > Alarme > FC1 und FC2</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="FC3 FC4">
+				<english>FC3 and FC4</english>
+				<german>FC3 und FC4</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Errors_FC3_4">
+				<english>Maintenance > Error and DH > FC3 and FC4</english>
+				<german>Instandhaltung > Alarme > FC3 und FC4</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="FC5 FC6">
+				<english>FC5 and FC6</english>
+				<german>FC5 und FC6</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Errors_FC5_6">
+				<english>Maintenance > Error and DH > FC5 and FC6</english>
+				<german>Instandhaltung > Alarme > FC5 und FC6</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Drivers Help">
+				<english>Drivers Help</english>
+				<german>Fahrerhilfe</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_OLD_DRIVERSHELP">
+				<english>Maintenance > Error and DH > Help</english>
+				<german>Instandhaltung > Alarme > Fahrerhilfe</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Gates">
+				<english>Gates</english>
+				<german>Tore</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Gates">
+				<english>Maintenance > Error and DH > Gates</english>
+				<german>Instandhaltung > Alarme > Tore</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="E-Stops">
+				<english>E-Stops</english>
+				<german>Not-Aus</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_EStop">
+				<english>Maintenance > Error and DH > E-Stops</english>
+				<german>Instandhaltung > Alarme > Not-Aus</german>
+				<swedish></swedish>
+			</text>	
+		
+		<text prefix="nav_button_xml" id="Diagnostics">
+			<english>Diagnostics</english>
+			<german>Diagnose</german>
+			<swedish></swedish>
+		</text>
+			<text prefix="nav_button_xml" id="FC Communication FC1 and FC2">
+				<english>Com FC1 FC2</english>
+				<german>FC Kommunikation FC1 FC2</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Diag_FCCOM_FC1_2">
+				<english>Maintenance > Diagnostics > Com FC1 FC2</english>
+				<german>Instandhaltung > Diagnose > FC Kommunikation FC1 FC2</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="FC Communication FC3 and FC4">
+				<english>Com FC3 FC4</english>
+				<german>FC Kommunikation FC3 FC4</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Diag_FCCOM_FC3_4">
+				<english>Maintenance > Diagnostics > Com FC3 FC4</english>
+				<german>Instandhaltung > Diagnose > FC Kommunikation FC3 FC4</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="FC Communication FC5 and FC6">
+				<english>Com FC5 FC6</english>
+				<german>FC Kommunikation FC5 FC6</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Diag_FCCOM_FC5_6">
+				<english>Maintenance > Diagnostics > Com FC5 FC6</english>
+				<german>Instandhaltung > Diagnose > FC Kommunikation FC5 FC6</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="FC Parameter reading">
+				<english>FC Parameter reading</english>
+				<german>FC Parameter auslesen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Diag_ParamReadingFC">
+				<english>Maintenance > Diagnostics > FC Parameter reading</english>
+				<german>Instandhaltung > Diagnose > FC Parameter auslesen</german>
+				<swedish></swedish>
+			</text>
+		
+		<text prefix="nav_button_xml" id="Setup">
+			<english>Setup</english>
+			<german>Grundeinstellung</german>
+			<swedish></swedish>
+		</text>
+			<text prefix="nav_button_xml" id="Settings">
+				<english>Settings</english>
+				<german>Einstellungen</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Setup_Settings">
+				<english>Maintenance > Setup > Settings</english>
+				<german>Instandhaltung > Grundeinstellung > Einstellungen</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Travel Sensor">
+				<english>Travel Sensor</english>
+				<german>Fahrwerkssensoren</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Setup_TravelSensor">
+				<english>Maintenance > Setup > Travel Sensor</english>
+				<german>Instandhaltung > Grundeinstellung > Fahrwerkssensoren</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Travel Sensor Graph">
+				<english>Travel Sensor Graph</english>
+				<german>Fahrwerkssensor Graph</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_SETUP_TRAVELSENOSORGRAPH">
+				<english>Maintenance > Setup > Travel Sensor Graph</english>
+				<german>Instandhaltung > Grundeinstellung > Fahrwerkssensor Graph</german>
+				<swedish></swedish>
+			</text>
+		
+		<text prefix="nav_button_xml" id="Test">
+			<english>Test</english>
+			<german>Test</german>
+			<swedish></swedish>
+		</text>
+		<text prefix="nav_sitepath_xml" id="VIS_Test">
+			<english>Maintenance > Test</english>
+			<german>Instandhaltung > Test</german>
+			<swedish></swedish>
+		</text>
+
+		<text prefix="nav_button_xml" id="Statistics">
+			<english>Statistics</english>
+			<german>Statistiken</german>
+			<swedish></swedish>
+		</text>	
+			<text prefix="nav_button_xml" id="Load Statistics">
+				<english>Load Statistics</english>
+				<german>Laststatistik</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Machine_Statistics_Tables">
+				<english>Maintenance > Statistics > Load Statistics</english>
+				<german> Instandhaltung > Statistiken > Laststatistik</german>
+				<swedish></swedish>
+			</text>
+
+			<text prefix="nav_button_xml" id="Load Statistics Graph">
+				<english>Load Statistics Graph</english>
+				<german>Laststatistik graph</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Loadstatistics_graphs">
+				<english>Maintenance > Statistics > Load Statistics Graph</english>
+				<german> Instandhaltung > Statistiken > Laststatistik graph</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Operatinghours">
+				<english>Operatinghours</english>
+				<german>Betriebsstunden</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Operatinghours">
+				<english>Maintenance > Statistics > Operatinghours</english>
+				<german>Instandhaltung > Statistiken > Betriebsstunden</german>
+				<swedish></swedish>
+			</text>
+			
+		<text prefix="nav_button_xml" id="Safety">
+			<english>Safety</english>
+			<german>Sicherheit</german>
+			<swedish></swedish>
+		</text>
+			<text prefix="nav_button_xml" id="IO-Errors">
+				<english>IO-Errors</english>
+				<german>EA Fehler</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Safety_IOError">
+				<english>Maintenance > Safety > IO-Errors</english>
+				<german>Instandhaltung > Sicherheit > EA Fehler</german>
+				<swedish></swedish>
+			</text>
+			
+			<text prefix="nav_button_xml" id="Encoder Presetting">
+				<english>Encoder Preset</english>
+				<german>Geber voreinst</german>
+				<swedish></swedish>
+			</text>
+			<text prefix="nav_sitepath_xml" id="VIS_Safety_Encoder_Presetting">
+				<english>Maintenance > Safety > Encoder Preset</english>
+				<german>Instandhaltung > Sicherheit > Geber voreinst</german>
+				<swedish></swedish>
+			</text>
+	
+		<text prefix="nav_button_xml" id="Flash Handling">
+			<english>Flash Handling</english>
+			<german>Flash umgang</german>
+			<swedish></swedish>
+		</text>
+		<text prefix="nav_sitepath_xml" id="VIS_FlashHandling">
+			<english>Maintenance > Flash Handling</english>
+			<german>Instandhaltung > Flash umgang</german>
+			<swedish></swedish>
+		</text>
+
+	</text-list>
+</dynamic-text>

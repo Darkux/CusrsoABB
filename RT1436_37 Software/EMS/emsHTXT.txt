@@ -1,0 +1,76 @@
+26;E-Stop activated
+27;Joysticks not zero
+28;Crane on from P1
+29;Crane on from S1
+30;Diesel not ready
+31;Diesel temperature high 
+32;Maintenance Interval passed
+33;Buzzer Wind Alarm
+34;Loadcell not Ready
+35;PreOverload Single
+36;PreOverload Twin
+37;Overload warning condition
+38;Hoistmotor Overtemp. Lower poss.
+39;Spreader not ready for Hoist.
+40;Resetbutton S1 pressed
+41;Limitswitch Hoist up reached
+42;Limitswitch Hoist down reached
+43;Spreadercable not plugged in
+44;Hoist not zero
+45;Spreader not landed
+46;For Exp./Ret.Spreader Not Landed
+47;Spreader is off
+48;Faulty wheel position
+49;Travel left anti-collision stop activated (FL)
+50;Travel left anti-collision 10% slow-down activated (FL)
+51;Travel left anti-collision 25% slow-down activated (FL)
+52;Travel right anti-collision stop activated (FR)
+53;Travel right anti-collision 10% slow-down activated (FR)
+54;Travel right anti-collision 25% slow-down activated (FR)
+55;Travel right anti-collision stop activated (BR)
+56;Travel right anti-collision 10% slow-down activated (BR)
+57;Travel right anti-collision 25% slow-down activated (BR)
+58;Travel left anti-collision stop activated (BL)
+59;Travel left anti-collision 10% slow-down activated (BL)
+60;Travel left anti-collision 25% slow-down activated (BL)
+61;Travel left Obstacle anti-collision stop activated (FL)
+62;Travel left Obstacle anti-collision 10% slow-down activated (FL)
+63;Travel right Obstacle anti-collision stop activated (FR)
+64;Travel right Obstacle anti-collision 10% slow-down activated (FR)
+65;Travel right Obstacle anti-collision stop activated (BR)
+66;Travel right Obstacle anti-collision 10% slow-down activated (BR)
+67;Travel left Obstacle anti-collision stop activated (BL)
+68;Travel left Obstacle anti-collision 10% slow-down activated (BL)
+69;Anchor pin is set
+70;Limitswitch Forward reached
+71;Limitswitch Reverse reached
+72;Bypass Idle Off
+73;Bypass Limitswitch Up
+74;Bypass Loadcell Ready
+75;Bypass Hoist Slack-rope
+76;Bypass Overload
+77;Bypass Ready For Hoisting
+78;Bypass Landed
+79;Bypass Travel Left Crane Anti-collision (FL)
+80;Bypass Travel Right Crane Anti-collision (FR)
+81;Bypass Travel Right Crane Anti-collision (BR)
+82;Bypass Travel Left Crane Anti-collision (FL)
+83;Bypass Travel Left Obstacle Anti-collision (FL)
+84;Bypass Travel Right Obstacle Anti-collision (FR)
+85;Bypass Travel Right Obstacle Anti-collision (BR)
+86;Bypass Travel Left Obstacle Anti-collision (BL)
+87;Bypass Limitswitch Forward
+88;Bypass Limitswitch Reverse
+89;Bypass Gates
+90;Bypass Anchor Pin
+91;Bypass Softlimits
+92;Bypass Trolley without MCO
+93;Bypass Trolley without MCO Enc
+94;Portal Gate Open
+95;Cabin Gate Open
+96;Press Gate Reset
+97;Gate Safety Time
+98;Trolley Encoder Not Referenced
+99;AdBlue level low
+100;Lifted Trailer Detected
+101;Bypass Trailer Lift
