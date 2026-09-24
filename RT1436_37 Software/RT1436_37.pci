@@ -1,0 +1,22 @@
+[General]
+Title=RT1436_37
+Author=cobgab0
+Date=04/02/2019 09:32:44
+[Source]
+Drive=d: [windows]
+IBS Signals Filename=CsvSvc\SIGNALS.CSV
+IBS Config_with_EMS Filename=D:\Prj\RT1436_37\RT1436_37 Software\CsvSvc\CON_EMS.SVC
+IBS Config_without_EMS Filename=
+IBS Netvars Filename=
+Errors Filename=D:\Prj\RT1436_37\RT1436_37 Software\EMS\M_etxt.txt
+Drivers Help Filename=D:\Prj\RT1436_37\RT1436_37 Software\EMS\m_htxt.txt
+[Destination]
+Drive=d: [windows]
+Directory=Exp
+[IBS Master]
+DPM=2
+[Simulation]
+IBS=0
+[Mode]
+EMS3=1
+BMK=1
