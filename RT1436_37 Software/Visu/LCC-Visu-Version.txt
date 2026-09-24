@@ -1,0 +1,25 @@
+19.04.10  +V1.3.2.2    7.15m, 7.45m und Grapplemode Containerstatistik geht wieder. 
+                       Tandemspreader Containerstatistik hinzugefügt.
+                       Grün/Rote SPS-Run-Anzeige in Statusbar funktioniert jetzt auch bei RMG-Kran richtig.
+04.05.10   V1.3.2.6    Windspeed Peak
+15.10.10  +V1.3.2.20   ?
+13.12.10  +V1.3.3.22   LCC Änderungen 
+                       DB-Compress
+18.01.11  *V1.3.3.26   LoadCellOnMainScreen
+                       Overload for AC-Cranes
+                       CrossCheckErrors PLC<->Visu 
+14.02.11  +V1.3.3.40   LoadHistory Endless
+05.04.11  *V1.3.3.52   LoadStatistics Fehlerbehebungen
+14.04.11   V1.3.3.53   CompactAndRepair nur auf Server
+                       (nicht auf Client)
+15.04.11   V1.3.3.55   MS-Access-File (*.mdb):
+                       Designtime Filename is ignored,
+                       only rtgvi.ini Filename is used.     
+11.05.11   V1.3.3.58   LoadCellOnMainScreen auch für RTGs
+           V1.3.3.59   (^noch verbessert)
+20.12.11  *V1.3.3.123  EAccessViolation lag an UltraVNC Konfiguration
+                       Verbesserungen beim Fehlerhandling/logging
+                       (Verwendung von Spalte 1 (ENUM) statt Spalte 14 (Kommentar) aus m_etxt.txt)
+                       Verbesserungen bei einer Client/Server-Konfiguration
+21.12.11  *V1.3.3.124  Fehler automatischer Wechsel ins Sprederbild bei Flipper runter, behoben. 
+           

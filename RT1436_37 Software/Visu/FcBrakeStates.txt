@@ -1,0 +1,15 @@
+0, BrakeFSMStart
+1, BrakeClosed
+2, ReleaseImpulseStop
+3, ImpulsesNotReleased
+4, BuildUpTorque
+5, MotorHasNoTorque
+6, ReleaseBrake
+7, BrakeReleaseError
+8, MotorRunning
+9, SpeedRampDown
+10, WaitForBrakeActivation
+11, ActivateBrake
+12, HoldField
+13, BrakeActivateError
+14, SmallLoadSpeed

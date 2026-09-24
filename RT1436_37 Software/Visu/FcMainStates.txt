@@ -1,0 +1,9 @@
+0, MainFSMStart
+1, NotReadyToSwitch
+2, SwitchOnDisabled
+3, ReadyToSwitchOn
+4, SwitchedOn
+5, OperationEnable
+6, QuickStopActive
+7, FaultReactionActive
+8, Fault
